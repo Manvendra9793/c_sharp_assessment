@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Features\" />
+    <Compile Remove="Features\AccountFeatures\Queries\GetAccountStatementQuery.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\CustomerFeatures\Commands\" />
+    <Folder Include="Features\CustomerFeatures\Queries\" />
   </ItemGroup>
 
   <ItemGroup>

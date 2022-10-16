@@ -9,13 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{EA31B099-21F4-4C69-8E96-04572876A997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasaltTest.WebApi", "BasaltTest.WebApi\BasaltTest.WebApi.csproj", "{1331618D-F010-4201-9BBF-BEA8B4493D8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasaltTest.WebApi", "BasaltTest.WebApi\BasaltTest.WebApi.csproj", "{1331618D-F010-4201-9BBF-BEA8B4493D8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasaltTest.Domain", "BasaltTest.Domain\BasaltTest.Domain.csproj", "{2A534FD3-031A-4147-B4E3-E8586123240C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasaltTest.Domain", "BasaltTest.Domain\BasaltTest.Domain.csproj", "{2A534FD3-031A-4147-B4E3-E8586123240C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasaltTest.Application", "BasaltTest.Application\BasaltTest.Application.csproj", "{B04E4D72-BC70-4AF8-AB98-A65C25773EC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasaltTest.Application", "BasaltTest.Application\BasaltTest.Application.csproj", "{B04E4D72-BC70-4AF8-AB98-A65C25773EC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasaltTest.Persitence", "BasaltTest.Persitence\BasaltTest.Persitence.csproj", "{737C2D24-E50C-4C89-86C3-8E9C4EA88E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasaltTest.Persitence", "BasaltTest.Persitence\BasaltTest.Persitence.csproj", "{737C2D24-E50C-4C89-86C3-8E9C4EA88E5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
